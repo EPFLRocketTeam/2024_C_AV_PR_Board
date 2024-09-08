@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LT3960")(type "KiCad")(uri "C:/Users/Samuel/Downloads/LT3960.kicad_sym")(options "")(descr ""))
+  (lib (name "PCA9548ADGVR")(type "KiCad")(uri "${KIPRJMOD}/syms/PCA9548ADGVR.kicad_sym")(options "")(descr ""))
+  (lib (name "PCA9548A")(type "KiCad")(uri "${KIPRJMOD}/syms/PCA9548A.kicad_sym")(options "")(descr ""))
+  (lib (name "Teensy")(type "KiCad")(uri "${KIPRJMOD}/syms/Teensy.kicad_sym")(options "")(descr ""))
+)

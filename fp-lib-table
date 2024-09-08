@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LT3960")(type "KiCad")(uri "${KIPRJMOD}/syms/LT3960.pretty")(options "")(descr ""))
+  (lib (name "PCA9548A")(type "KiCad")(uri "${KIPRJMOD}/syms/PCA9548A.pretty")(options "")(descr ""))
+  (lib (name "Teensy")(type "KiCad")(uri "${KIPRJMOD}/syms/Teensy.pretty")(options "")(descr ""))
+)

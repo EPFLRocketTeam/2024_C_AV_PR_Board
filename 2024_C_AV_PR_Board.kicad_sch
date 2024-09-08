@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "3708b8b2-8ddb-4481-9b48-10b35e4e9f6a")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 64.77 99.06)
+		(size 38.1 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1b8a24f7-355a-4056-92fb-6e89de6a6110")
+		(property "Sheetname" "Actuators"
+			(at 64.77 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "actuators.kicad_sch"
+			(at 64.77 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2024_C_AV_PR_Board"
+				(path "/3708b8b2-8ddb-4481-9b48-10b35e4e9f6a"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 127 35.56)
+		(size 38.1 105.41)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1ce7af05-7523-43bd-954e-fac954ed58d9")
+		(property "Sheetname" "Compute Unit"
+			(at 127 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "compute_unit.kicad_sch"
+			(at 127 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2024_C_AV_PR_Board"
+				(path "/3708b8b2-8ddb-4481-9b48-10b35e4e9f6a"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 191.77 48.26)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "357f7c01-be73-4904-bb67-96f0291a4a0b")
+		(property "Sheetname" "Spine Connection"
+			(at 191.77 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "spine_connection.kicad_sch"
+			(at 191.77 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2024_C_AV_PR_Board"
+				(path "/3708b8b2-8ddb-4481-9b48-10b35e4e9f6a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 64.77 48.26)
+		(size 38.1 25.4)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b253d38c-ad1b-4aa8-8313-840bebeb08f0")
+		(property "Sheetname" "Sensors"
+			(at 64.77 47.5484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 64.77 74.2446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2024_C_AV_PR_Board"
+				(path "/3708b8b2-8ddb-4481-9b48-10b35e4e9f6a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 191.77 99.06)
+		(size 38.1 24.13)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c6d9da8b-5f02-4a92-85af-f9d3dd574acb")
+		(property "Sheetname" "Debugging"
+			(at 191.77 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "misc.kicad_sch"
+			(at 191.77 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "2024_C_AV_PR_Board"
+				(path "/3708b8b2-8ddb-4481-9b48-10b35e4e9f6a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
